@@ -1,0 +1,23 @@
+// Daily view
+"lowest-temperature %@" = "Tief: %@°";
+"highest-temperature %@" = "Hoch: %@°";
+"10-day-forecast" = "10-Tages Vorhersage";
+
+// Current view
+"highest-lowest-temperature %@ %@" = "H: %@°, L´T: %@°";
+
+// Weather categories
+"sunny" = "Sonne";
+"cloudy" = "Wolken";
+"sunny-cloudy" = "Meist sonnig";
+"rainy" = "Regen";
+"heavy-rainy" = "Achtung: Starkregen!";
+"snowy" = "Schnee";
+"sleety" = "Schneeregen";
+"foggy" = "Wolken";
+"thundery" = "Achtung: Gewitter!";
+"clear-night" = "Klare Nacht";
+"windy" = "Wind";
+"Unknown" = "Unbekannt";
+"sunrise" = "Sonnenaufgang";
+"sunset" = "Sonnenuntergang";

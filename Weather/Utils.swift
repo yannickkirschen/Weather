@@ -1,0 +1,3 @@
+protocol UpdateDelegate {
+    func update()
+}
